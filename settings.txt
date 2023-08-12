@@ -1,0 +1,4 @@
+root: D:\own\Angular\Angular-GettingStarted-master\APM 
+path: C:\Program Files\nodejs 
+arch: 64 
+proxy: none
